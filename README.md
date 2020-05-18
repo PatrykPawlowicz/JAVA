@@ -14,6 +14,17 @@ Basic exercises in JAVA
 * Exercise 3 <br>
 ![Exercise 3](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%203.png?raw=true)
 ## Dziedziczenie
+* Exercise 1 <br>
+![Exercise 1.1](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Dziedziczenie%201.1.png?raw=true)
+![Exercise 1.2](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Dziedziczenie%201.2.png?raw=true)
+![Exercise 1.3](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Dziedziczenie%201.3.png)
+* Exercise 2 <br>
+![Exercise 2.1]()
+![Exercise 2.2]()
+* Exercise 3 <br>
+![Exercise 3]()
+* Exercise 4 <br>
+![Exercise 4]()
 ## Konstruktory
 ## Abstrakcyjność
 * Exercise 1 <br>
