@@ -24,11 +24,11 @@ Basic exercises in JAVA
   * [Exercise 6](#exercise-6--3)
 
 ## Klasy
-#### Exercise 1 <br>
+#### Exercise 1 (klasy)<br>
 ![Exercise 1](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%201.png?raw=true) <br>
-#### Exercise 2 <br>
+#### Exercise 2  (klasy)<br>
 ![Exercise 2](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%202.png?raw=true) <br>
-#### Exercise 3 <br>
+#### Exercise 3 (klasy)<br>
 ![Exercise 3](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%203.png?raw=true) <br>
 ## Dziedziczenie
 #### Exercise 1 <br>
