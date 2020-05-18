@@ -1,5 +1,7 @@
 # JAVA
 Basic exercises in JAVA
+## Description
+A repository created from university tasks that were used to learn Java programming. 
 ## Table of contents:
 * [Klasy](#klasy)
   * [Exercise 1](#exercise-1-klasy)
@@ -22,7 +24,7 @@ Basic exercises in JAVA
   * [Exercise 4](#exercise-4-abstrakcyjność-)
   * [Exercise 5](#exercise-5-abstrakcyjność-)
   * [Exercise 6](#exercise-6-abstrakcyjność-)
-
+## Screenshots of code:
 ## Klasy
 #### Exercise 1 (klasy)<br>
 ![Exercise 1](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%201.png?raw=true) <br>
