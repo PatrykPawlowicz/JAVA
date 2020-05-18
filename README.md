@@ -2,9 +2,9 @@
 Basic exercises in JAVA
 ## Table of contents:
 * [Klasy](#klasy)
-  * [Exercise 1](#exercise1)
-  * [Exercise 2](#exercise2)
-  * [Exercise 3](#exercise3)
+  * [Exercise 1](#Exercise-1)
+  * [Exercise 2](#Exercise-2)
+  * [Exercise 3](#Exercise-3)
 * [Dziedziczenie](#dziedziczenie)
 * [Konstruktory](#konstruktory)
 * [Abstrakcyjność](#abstrakcyjność)
