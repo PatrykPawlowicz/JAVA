@@ -1,7 +1,7 @@
 # JAVA
 Basic exercises in JAVA
 ## Table of contents:
-* [Klasy](#klasy) {* [Exercise 1](#exercise-1)
+* [Klasy](#klasy) * [Exercise 1](*exercise-1)
 ## Klasy
 * Exercise 1 <br>
 ![Exercise 1](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%201.png?raw=true)
