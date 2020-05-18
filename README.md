@@ -2,16 +2,19 @@
 Basic exercises in JAVA
 ## Table of contents:
 * [Klasy](#klasy)
+  * [Exercise 1](#exercise-1)
+  * [Exercise 2](#exercise-2)
+  * [Exercise 3](#exercise-3)
 * [Dziedziczenie](#dziedziczenie)
 * [Konstruktory](#konstruktory)
 * [Abstrakcyjność](#abstrakcyjność)
 
 ## Klasy
-* Exercise 1 <br>
+#### Exercise 1 <br>
 ![Exercise 1](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%201.png?raw=true)
-* Exercise 2 <br>
+#### Exercise 2 <br>
 ![Exercise 2](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%202.png?raw=true)
-* Exercise 3 <br>
+#### Exercise 3 <br>
 ![Exercise 3](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Klasy%203.png?raw=true)
 ## Dziedziczenie
 * Exercise 1 <br>
