@@ -1,5 +1,5 @@
 # JAVA
-Basic exercises in JAVA
+Basic exercises in JAVA.
 ## Description
 A repository created from university tasks that were used to learn Java programming. 
 ## Table of contents:
