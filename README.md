@@ -80,4 +80,5 @@ A repository created from university tasks that were used to learn Java programm
 ![Exercise 6](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Abtrakcyjno%C5%9B%C4%87%206.png?raw=true) <br>
 ## Others
 #### Zakupy (others) <br>
-![Zakupy[(https://github.com/PatrykPawlowicz/JAVA/blob/master/Zakupy) <br>
+![Zakupy](https://github.com/PatrykPawlowicz/JAVA/blob/master/Zakupy) <br>
+Link do zadania: https://github.com/PatrykPawlowicz/JAVA/blob/master/Zakupy
