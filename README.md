@@ -25,7 +25,7 @@ A repository created from university tasks that were used to learn Java programm
   * [Exercise 5](#exercise-5-abstrakcyjność-)
   * [Exercise 6](#exercise-6-abstrakcyjność-)
  * [Others](#others)
-   * [Zakupy](#zakupy)
+   * [Zakupy](#Zakupy)
 ## Screenshots of code:
 ## Klasy
 #### Exercise 1 (klasy)<br>
@@ -80,5 +80,4 @@ A repository created from university tasks that were used to learn Java programm
 ![Exercise 6](https://github.com/PatrykPawlowicz/JAVA/blob/master/Java/Abtrakcyjno%C5%9B%C4%87%206.png?raw=true) <br>
 ## Others
 #### Zakupy (others) <br>
-![Zakupy](https://github.com/PatrykPawlowicz/JAVA/blob/master/Zakupy) <br>
 Link do zadania: https://github.com/PatrykPawlowicz/JAVA/blob/master/Zakupy
