@@ -24,6 +24,8 @@ A repository created from university tasks that were used to learn Java programm
   * [Exercise 4](#exercise-4-abstrakcyjność-)
   * [Exercise 5](#exercise-5-abstrakcyjność-)
   * [Exercise 6](#exercise-6-abstrakcyjność-)
+ * [Others](#others)
+   * [Zakupy](#Zakupy)
 ## Screenshots of code:
 ## Klasy
 #### Exercise 1 (klasy)<br>
